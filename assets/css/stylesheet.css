@@ -10,10 +10,8 @@ html, body {
 }
 
 canvas {
-  height: 600px;
-  width: 760px;
-  border-radius: 10px;
-  border: 10px solid #000000;
+  height: 1000px;
+  width: 1000px;
   margin: auto;
   user-select: none;
   -ms-user-select: none;
